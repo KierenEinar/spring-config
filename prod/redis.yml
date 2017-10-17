@@ -1,0 +1,11 @@
+redis:
+ port: 6637
+ host: localhost
+ default:
+  db: 0
+ pass: 
+ timeout: 100000
+ maxActive: 300
+ maxIdle: 100
+ maxWait: 1000
+ testOnBorrow: false
