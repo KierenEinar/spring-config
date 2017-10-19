@@ -10,4 +10,4 @@ redis:
  maxWait: 1000
  testOnBorrow: false
 mongo:
- uri:mongodb://10.0.1.39/intbee_uc
+ uri: mongodb://10.0.1.39/intbee_uc
